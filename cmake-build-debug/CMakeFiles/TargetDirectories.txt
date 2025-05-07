@@ -1,0 +1,3 @@
+/Users/nataliakobryn/OneDrive/Лабораторні роботи 1 курс(2)/Обєктно-орієнтоване програмування/lab oop 2/cmake-build-debug/CMakeFiles/lab_oop_2.dir
+/Users/nataliakobryn/OneDrive/Лабораторні роботи 1 курс(2)/Обєктно-орієнтоване програмування/lab oop 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nataliakobryn/OneDrive/Лабораторні роботи 1 курс(2)/Обєктно-орієнтоване програмування/lab oop 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
